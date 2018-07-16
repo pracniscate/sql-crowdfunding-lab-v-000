@@ -1,4 +1,4 @@
-< data.sql
+insert.sql < data.sql
 -- INSERT INTO users (id, name, age) VALUES
 --   (1, 'Finnebar', 17),
 --   (2, 'Bear', 6),
