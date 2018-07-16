@@ -1,1 +1,1 @@
-INSERT INTO users (id) VALUES (20); 
+INSERT INTO users (id, name, age) VALUES (1, 'wh', 7); 
