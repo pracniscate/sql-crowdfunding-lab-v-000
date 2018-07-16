@@ -1,6 +1,6 @@
 CREATE TABLE projects (
   id INTEGER PRIMARY KEY,
-  user_id INTEGER;
+  user_id INTEGER,
   title TEXT,
   category TEXT,
   funding_goal TEXT,
